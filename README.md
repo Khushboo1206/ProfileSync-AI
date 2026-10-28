@@ -104,3 +104,19 @@ Khushboo Nimje
 
 GitHub: Khushboo1206
 Built with React, n8n, AI extraction, Apify, and Supabase.
+
+
+#Screenshots
+React Dashboard to upload cv and its results 
+<img width="1534" height="774" alt="image" src="https://github.com/user-attachments/assets/02d19eb2-9432-45a5-b8a9-3033e2298523" />
+<img width="1362" height="617" alt="image" src="https://github.com/user-attachments/assets/694e70ff-b686-47c4-8354-bc50f6079af7" />
+
+n8n workflow
+<img width="1213" height="634" alt="image" src="https://github.com/user-attachments/assets/c435d20f-3273-4432-8c1c-d2edd4afe066" />
+<img width="1233" height="637" alt="image" src="https://github.com/user-attachments/assets/964a1071-ffdd-4c79-a1da-46ff2822fd4a" />
+
+postgres supabase db
+<img width="1242" height="426" alt="image" src="https://github.com/user-attachments/assets/bd61b46a-a78e-494e-ba5f-1be4f28fb6f4" />
+
+
+
